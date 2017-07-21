@@ -53,9 +53,13 @@ The Scrolling Background:
 
 Credits:
 
-	Background Image:
+	Background Image - bg:
 		Ryan Schroeder via Unsplash (unsplash.com - CC0 licensed)
 			"Icefields" (flickr.com/photos/ryanschroeder/11876741703)
+	Background Image - bg-02:
+		Farwestern via wikipedia
+			View from near the summit of Mount Ellinor in the Olympic National Forest of Washington
+			(https://en.wikipedia.org/wiki/Portal:United_States/Selected_panorama)
 
 	Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
