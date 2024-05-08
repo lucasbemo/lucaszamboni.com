@@ -59,7 +59,7 @@
 /* Basic */
 
 	body, input, select, textarea {
-		color: #fff;
+		color: #014d70;
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 15pt;
 		font-weight: 300 !important;
@@ -68,7 +68,7 @@
 	}
 
 	body {
-		background-image: url("images/nature-3082832.jpg");
+		background-image: url("images/El Calafate - background 08.jpg");
 		background-repeat: no-repeat;
 		background-size: 100%;
 		overflow: hidden;
@@ -370,7 +370,7 @@
 		font-size: 1.25em;
 		margin: 0.75em 0 0.25em 0;
 		opacity: 0.75;
-		color: white;
+		color: #014d70;
 		font-size: x-large;
 		font-weight: bold;
 	}
@@ -449,7 +449,7 @@
 		-ms-transition: all 0.2s ease-in-out;
 		transition: all 0.2s ease-in-out;
 		border-radius: 100%;
-		border: solid 1px #fff;
+		border: solid 1px #014d70;
 		display: block;
 		font-size: 1.75em;
 		height: 2.5em;
@@ -466,7 +466,7 @@
 
 	#header nav a:hover:before {
 		background-color: rgba(255, 255, 255, 0.175);
-		color: #fff;
+		color: #014d70;
 	}
 
 	#header nav a:active {
@@ -476,7 +476,7 @@
 
 	#header nav a:active:before {
 		background-color: rgba(255, 255, 255, 0.35);
-		color: #fff;
+		color: #014d70;
 	}
 
 	#header nav a span {
@@ -574,7 +574,7 @@
 			padding: 0 1em;
 		}
 		body {
-			background-image: url("images/nature-3082832.jpg");
+			background-image: url("images/El Calafate - background 08.jpg");
 			background-size:  auto;
 
 			background-attachment: scroll;
