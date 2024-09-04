@@ -59,7 +59,7 @@
 /* Basic */
 
 	body, input, select, textarea {
-		color: #014d70;
+		color: #0b222c;
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 15pt;
 		font-weight: 300 !important;
@@ -370,7 +370,7 @@
 		font-size: 1.25em;
 		margin: 0.75em 0 0.25em 0;
 		opacity: 0.75;
-		color: #014d70;
+		color: #0b222c;
 		font-size: x-large;
 		font-weight: bold;
 	}
@@ -449,7 +449,7 @@
 		-ms-transition: all 0.2s ease-in-out;
 		transition: all 0.2s ease-in-out;
 		border-radius: 100%;
-		border: solid 1px #014d70;
+		border: solid 1px #0b222c;
 		display: block;
 		font-size: 1.75em;
 		height: 2.5em;
@@ -466,7 +466,7 @@
 
 	#header nav a:hover:before {
 		background-color: rgba(255, 255, 255, 0.175);
-		color: #014d70;
+		color: #0b222c;
 	}
 
 	#header nav a:active {
@@ -476,7 +476,7 @@
 
 	#header nav a:active:before {
 		background-color: rgba(255, 255, 255, 0.35);
-		color: #014d70;
+		color: #0b222c;
 	}
 
 	#header nav a span {
